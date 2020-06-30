@@ -1,0 +1,10 @@
+subscriptions:
+  lab: 'abcd-lab-subscription-id'
+  test:  'abcd-test-subscription-id'
+
+service_principal:
+  directory_id: 'abcd-directory-tenant-id'
+  client_id: 'abcd-application-client-id'
+  client_secret: 'abcd-client-secret-key'
+
+storage_id: '/subscriptions/my-azure-subscription/resourceGroups/my-storage-rg/providers/Microsoft.Storage/storageAccounts/storage-account-name'
